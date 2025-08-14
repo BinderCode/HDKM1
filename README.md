@@ -8,7 +8,7 @@ HDKM: A Secure and Efficient Dynamic Key Management Scheme for Edge Computing
 
 ## Welcome Cite
 
-**Bai Z**, Wang M, Guo F, et al. HDKM: A dynamic key management scheme based on data for real-time updates[C]. Conference on Information and Knowledge Management. 2025.
+Zhao Bai, Yaran Duan, Nianyun Song, et al. HDKM: A dynamic key management scheme based on data for real-time updates[C]. Conference on Information and Knowledge Management. 2025.
 
 
 
